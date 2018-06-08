@@ -1,0 +1,12 @@
+[Protocol]
+helper=true
+exec=runescape-launcher
+defaultMimetype=uri/rs-launch
+protocol=rs-launch
+input=none
+output=none
+reading=false
+Icon=
+URIMode=url
+Class=:internet
+
